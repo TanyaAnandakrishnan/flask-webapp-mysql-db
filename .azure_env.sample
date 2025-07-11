@@ -1,5 +1,5 @@
-export AZURE_MYSQL_USER=
-export AZURE_MYSQL_PASSWORD=
-export AZURE_MYSQL_HOST=
-export AZURE_MYSQL_NAME=
+export AZURE_MYSQL_USER=sqladmin
+export AZURE_MYSQL_PASSWORD=TaNyA#38
+export AZURE_MYSQL_HOST=adminsql.mysql.database.azure.com
+export AZURE_MYSQL_NAME=adminsql
 export DEPLOYMENT_LOCATION=azure
